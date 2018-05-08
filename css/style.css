@@ -1,0 +1,14 @@
+html, body{
+    overflow-x: hidden;  
+}
+
+.tiro {
+    width: 50px;
+    height: 3px;
+    position: absolute;
+    left: 283px;
+    top: 403px;
+    background-color: darkred;
+    border: 1px solid red;
+    border-style: 
+}
